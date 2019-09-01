@@ -1,1 +1,4 @@
 Hello user we are using git now
+
+user1 "afrid"
+user2 "sachi"
